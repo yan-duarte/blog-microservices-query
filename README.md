@@ -1,2 +1,1 @@
-# blog-microsservices-query
-Blog Microsservices - Query
+# Blog Microservices - Query
